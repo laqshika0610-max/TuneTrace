@@ -139,4 +139,3 @@ st.caption(
     "TuneTrace uses text matching to suggest songs. "
     "Please check the results to confirm the correct song."
 )
-
